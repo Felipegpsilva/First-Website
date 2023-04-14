@@ -1,39 +1,46 @@
 html {
-  height: 100%;
-  width: 30%;
-}
-
-
-h1 { color: green;
-   font-size: 40px;
-   font-family: 'Times New Roman', Times, serif;
-   text-align: center;}
-
-h2 { color: lightgreen;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 26px;
-    text-align: center;
+    height: 100%;
+    width: 30%;
   }
+  
+  
+  h1 { color: green;
+     font-size: 40px;
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;}
+  
+  h2 { color: lightgreen;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 26px;
+      text-align: center;
+    }
+  
+  header, body, footer {background-color: lightyellow;
+  text-align: center;
 
-header, body, footer {background-color: lightyellow;
-text-align: center;}
-
-div {text-align: center;}
-
-
-
-
-
-
-a:link { color: blue;}
-a:visited {color: darkblue;}
-a:hover { color: lightblue;}
-a:active {color: lightgreen;}
-
-
-img {
-  width: 30%;
-  height: 30%;
-  margin: 10px;
-  padding: 15px;
+    width: 500px;
+    border: 15px darkgreen;
+    padding: 30px;
+    margin: 20px;
+  
 }
+  
+  div {text-align: center;}
+  
+  
+  
+  
+  
+  
+  a:link { color: blue;}
+  a:visited {color: darkblue;}
+  a:hover { color: lightblue;}
+  a:active {color: lightgreen;}
+  
+  
+  img {
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    padding: 15px;
+  }
